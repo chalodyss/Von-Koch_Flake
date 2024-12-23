@@ -9,7 +9,7 @@ Ce programme permet de construire un flocon de Von Koch.
 ## Usage
 
 <pre>
-python von_koch_flake.py 6 0 1
+python von_koch_flake.py [ITERATIONS] [DELAY] [TRACER]
 </pre>
 
 ## Auteur
